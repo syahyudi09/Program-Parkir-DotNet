@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\syahy\\Desktop\\Test\\NTT\\ProgramParkir\\ProgramParkir.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\syahy\\Desktop\\Test\\NTT\\ProgramParkir\\ProgramParkir.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\syahy\\Desktop\\Test\\NTT\\ProgramParkir\\ProgramParkir.csproj",
+        "projectName": "ProgramParkir",
+        "projectPath": "C:\\Users\\syahy\\Desktop\\Test\\NTT\\ProgramParkir\\ProgramParkir.csproj",
+        "packagesPath": "C:\\Users\\syahy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\syahy\\Desktop\\Test\\NTT\\ProgramParkir\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\syahy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

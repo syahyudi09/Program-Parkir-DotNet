@@ -1,0 +1,14 @@
+C:\Users\syahy\Desktop\Test\NTT\ProgramParkir\obj\Debug\net8.0\ProgramParkir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syahy\Desktop\Test\NTT\ProgramParkir\obj\Debug\net8.0\ProgramParkir.AssemblyInfoInputs.cache
+C:\Users\syahy\Desktop\Test\NTT\ProgramParkir\obj\Debug\net8.0\ProgramParkir.AssemblyInfo.cs
+C:\Users\syahy\Desktop\Test\NTT\ProgramParkir\obj\Debug\net8.0\ProgramParkir.csproj.CoreCompileInputs.cache
+C:\Users\syahy\Desktop\Test\NTT\ProgramParkir\bin\Debug\net8.0\ProgramParkir.exe
+C:\Users\syahy\Desktop\Test\NTT\ProgramParkir\bin\Debug\net8.0\ProgramParkir.deps.json
+C:\Users\syahy\Desktop\Test\NTT\ProgramParkir\bin\Debug\net8.0\ProgramParkir.runtimeconfig.json
+C:\Users\syahy\Desktop\Test\NTT\ProgramParkir\bin\Debug\net8.0\ProgramParkir.dll
+C:\Users\syahy\Desktop\Test\NTT\ProgramParkir\bin\Debug\net8.0\ProgramParkir.pdb
+C:\Users\syahy\Desktop\Test\NTT\ProgramParkir\obj\Debug\net8.0\ProgramParkir.dll
+C:\Users\syahy\Desktop\Test\NTT\ProgramParkir\obj\Debug\net8.0\refint\ProgramParkir.dll
+C:\Users\syahy\Desktop\Test\NTT\ProgramParkir\obj\Debug\net8.0\ProgramParkir.pdb
+C:\Users\syahy\Desktop\Test\NTT\ProgramParkir\obj\Debug\net8.0\ProgramParkir.genruntimeconfig.cache
+C:\Users\syahy\Desktop\Test\NTT\ProgramParkir\obj\Debug\net8.0\ref\ProgramParkir.dll
